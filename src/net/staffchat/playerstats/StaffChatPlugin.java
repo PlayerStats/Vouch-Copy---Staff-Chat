@@ -25,10 +25,10 @@ public class StaffChatPlugin extends JavaPlugin {
 	}
 	
 	
-	@Override
+	/*@Override
 	public void onDisable() {
 		
-	}
+	}*/
 	
 	void registerCommands() {
 		new StaffChatCommand(this);
