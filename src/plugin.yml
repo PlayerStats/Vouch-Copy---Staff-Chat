@@ -1,0 +1,9 @@
+name: StaffChat
+version: 1.0
+main: net.staffchat.playerstats.StaffChatPlugin
+description: A staffchat plugin.
+authors: [PlayerStats]
+commands:
+   staffchat:
+     aliases: [sc,stfcht]
+     description: StaffChat
